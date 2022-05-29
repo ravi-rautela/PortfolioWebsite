@@ -188,6 +188,10 @@ ul li a.active {
     margin: 10px 5%;
 }
 
+.intro span {
+    color: rgb(170, 223, 101);
+}
+
 .content .intro h1 {
     font-family: 'Chilanka', cursive;
     font-weight: bold;
